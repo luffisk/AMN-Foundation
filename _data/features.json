@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Free Therapy",
+    "description": "First we help re-build their lost confidence in themselves. We have partnered with mental health professionals to help kids from difficult backgrounds navigate around their difficulties and towards their dreams. We will never charge for this service.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,19 +9,10 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Interview Coaching",
+    "description": "Do you want to be a Software Engineer/AI Engineer/Product Manager? Do you want to work at Meta, Apple, Amazon, Netflix, Google? Sign up for free interview coaching with engineers who work here.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }
